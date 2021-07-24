@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "js-datastructure-algorithm",
+  "version": "1.0.0",
+  "description": "study data-structure and algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somedaycode/JS-DataStructure-Algorithm.git"
+  },
+  "keywords": [
+    "dataStructure",
+    "algorithm"
+  ],
+  "author": "somedaycode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somedaycode/JS-DataStructure-Algorithm/issues"
+  },
+  "homepage": "https://github.com/somedaycode/JS-DataStructure-Algorithm#readme"
+}
